@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Dec 2017 23:18:18 at https://www.templatemonster.com/es/demo/65764.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.templatemonster.com/es/demo/65764.html -O1 "D:\EMPRESA\odomed2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:18:30	Warning: 	Moved Permanently for https://www.templatemonster.com/es/demo/callback_notice=closed; expires=03 Jul 2036 21:44:38 GMT; domain=.templatemonster.com; path=/
+23:18:30	Warning: 	File has moved from https://www.templatemonster.com/es/demo/callback_notice=closed; expires=03 Jul 2036 21:44:38 GMT; domain=.templatemonster.com; path=/ to https://www.templatemonster.com/es/demo/callback_notice=closed;%20expires=03%20Jul%202036%2021:44:38%20GMT;%20domain=.templatemonster.com;%20path=/
+23:18:30	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://www.templatemonster.com/es/demo/65764.html)
+23:18:34	Error: 	"Not Found" (404) at link https://www.templatemonster.com/es/demo/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://s.tmimgcdn.com/js/plasma-pocket-react/monsterBundle.js?d=0534616)
+23:18:34	Error: 	"Not Found" (404) at link https://www.templatemonster.com/es/demo/require/ (from https://s.tmimgcdn.com/js/plasma-pocket-react/monsterBundle.js?d=0534616)
+23:18:34	Error: 	"Not Found" (404) at link https://www.templatemonster.com/es/demo/$&/ (from https://s.tmimgcdn.com/js/plasma-pocket-react/monsterBundle.js?d=0534616)
+23:18:34	Error: 	"Not Found" (404) at link https://www.templatemonster.com/es/demo/@@History/ (from https://s.tmimgcdn.com/js/plasma-pocket-react/monsterBundle.js?d=0534616)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 43 links scanned, 36 files written (3772265 bytes overall) [1601024 bytes received at 100064 bytes/sec], 3614685 bytes transferred using HTTP compression in 15 files, ratio 38%, 5.5 requests per connection
+(5 errors, 2 warnings, 0 messages)
